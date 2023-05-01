@@ -1,0 +1,156 @@
+body {
+    background-color:#413543 ;    
+}
+
+#Baslik {
+    font-family: 'Darumadrop One', cursive;
+    font-size: 50px;
+    margin:auto;
+    color: #8F43EE ;
+    align-items: center;
+    border-radius: 45px;
+    width: 800px;
+    padding-left: px;
+    margin-top: 150px;
+    text-align: center;
+    
+}
+
+nav{
+    margin: auto;
+    padding-top: 30px;
+    width: fit-content;
+        
+}
+
+.cubuk {
+    font-family: 'Darumadrop One', cursive;
+    font-size: 35px;
+    margin-left:75px;
+    border-radius: 10px;
+    color: #F0EB8D;
+    text-decoration: none;
+    background-color: #2D2727;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.cubuk:hover{
+    opacity: 0.5;
+    color: #8F43EE;
+}
+
+.cubuk :active {
+    background-color: darkgoldenrod;
+}
+
+#desc{
+    color:#F0EB8D;
+    font-size: 50px;
+    margin-top: 200px;
+    padding: 50px;
+    padding-left: 200px;
+    padding-right: 200px;
+    text-align: center;
+    font-family: 'Darumadrop One', cursive;
+}
+#projects{
+    text-align:center ;
+}
+
+#project  {
+    border-radius: 10px;
+    color:#8F43EE;
+    font-size: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    text-decoration: none;
+    font-family: 'Darumadrop One', cursive;
+    text-align: center;
+}
+
+.pictures{
+    
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: center;
+
+}
+
+.resimler {
+    width: 300px;
+    border-radius: 30px;
+    height: 400px;
+    margin-left: 20px;
+}
+
+#contact-me{
+    text-align: center;
+    color: #8F43EE;
+    font-family:'Darumadrop One', cursive ;
+    font-size: 50px;
+    margin-top: 200px;
+    
+    text-decoration: underline;
+}
+
+
+
+
+
+.contacts{
+    text-decoration: none;
+    color: #8F43EE;
+    font-family:'Darumadrop One', cursive ;
+    font-size: 40px;
+    margin-left: 30px;
+
+}
+
+.icon  {
+    color:#F0EB8D 
+}
+
+#girdi{
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 100px;
+
+}
+
+.gir{
+    size: 50px;
+    font-size: large;
+    background-color: #632da5;
+    color: #F0EB8D;
+    border-radius: 10px ;
+    border-color: #632da5;
+    border-width: 5px;
+}
+
+.gir::placeholder{
+    color: #F0EB8D;
+    background-color: #632da5;
+    border-radius: 20px ;
+    
+    
+}
+
+.bars{
+    margin-top:50px ;
+}
+.contacts:hover{
+    color: #F0EB8D;
+
+}
+
+.gonder{
+    color: #8F43EE;
+    font-size: large;
+    margin-top: 10px;
+    
+}
+
+
+
