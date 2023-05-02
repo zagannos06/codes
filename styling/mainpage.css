@@ -133,7 +133,7 @@ nav{
     color: #F0EB8D;
     background-color: #632da5;
     border-radius: 20px ;
-    
+    text-align: center;
     
 }
 
@@ -165,5 +165,11 @@ nav{
     
 }
 
-
+#message::placeholder{
+    color: #F0EB8D;
+    text-align: center;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: #F0EB8D;
+}
 
