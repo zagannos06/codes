@@ -152,5 +152,18 @@ nav{
     
 }
 
+#message{
+    size: 50px;
+    font-size: large;
+    background-color: #632da5;
+    color: #F0EB8D;
+    border-radius: 10px ;
+    border-color: #3d077a;
+    border-style: dashed;
+    border-width: 10px;
+    
+    
+}
+
 
 
